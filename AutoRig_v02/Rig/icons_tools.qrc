@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Icons/Tron_01.png</file>
+    <file>Icons/arrow_empty.png</file>
+    <file>Icons/arrow_empty_red.png</file>
+    <file>Icons/arrow_full_left.png</file>
+    <file>Icons/arrow_full_left_red.png</file>
+    <file>Icons/arrow_full_right.png</file>
+    <file>Icons/arrow_full_right_red.png</file>
+    <file>Icons/arrow_red.png</file>
+    <file>Icons/bobbles_01.png</file>
+    <file>Icons/circle_full.png</file>
+    <file>Icons/circle_hull.png</file>
+    <file>Icons/three_lines.png</file>
+    <file>Icons/two_arrow_full_red.png</file>
+    <file>Icons/two_arrow_hull_red.png</file>
+  </qresource>
+</RCC>
